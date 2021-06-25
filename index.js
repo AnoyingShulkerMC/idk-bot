@@ -1,4 +1,3 @@
-var token = "NzUwMTcxNjk5MzAzMTUzNzU5.X02p1g.ddHY05qvIKewWqEkXUHLWu-pSsQ"
 /////////////////////////////////////////////////////////////////////////////
 // CORE FILE
 // DONT EDIT UNLESS YOU KNOW WHAT UR DOING

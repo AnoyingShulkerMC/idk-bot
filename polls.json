@@ -1,0 +1,347 @@
+{
+    "yesorno": {
+        "854518491682832394": {
+            "yesvotes": [],
+            "novotes": [
+                "602691289733136404"
+            ],
+            "question": "s"
+        },
+        "854519218607489025": {
+            "yesvotes": [
+                "569133728148750346"
+            ],
+            "novotes": [
+                "569133728148750346",
+                "602691289733136404"
+            ],
+            "question": "working now?"
+        },
+        "854524975825420319": {
+            "yesvotes": [
+                "602691289733136404"
+            ],
+            "novotes": [
+                "365289087864668160"
+            ],
+            "question": "h"
+        },
+        "854527588734074930": {
+            "yesvotes": [],
+            "novotes": [],
+            "question": "make auser cult mod"
+        },
+        "854539178469359626": {
+            "yesvotes": [],
+            "novotes": [],
+            "question": "ping photemy"
+        },
+        "854539787536695297": {
+            "yesvotes": [],
+            "novotes": [],
+            "question": "invite buthed to this server"
+        },
+        "854551184635199508": {
+            "yesvotes": [],
+            "novotes": [],
+            "question": "What should i call Auser"
+        },
+        "854559920464068628": {
+            "yesvotes": [],
+            "novotes": [],
+            "question": "call keanu the <:v_:755546914715336765> man"
+        },
+        "854568364993937418": {
+            "yesvotes": [],
+            "novotes": [],
+            "question": "Change sebo's name to Keanu++"
+        },
+        "854568558083178496": {
+            "yesvotes": [
+                "602691289733136404"
+            ],
+            "novotes": [],
+            "question": "Change sebo's name into \"Keanu v2 with better <:v_:755546914715336765>s\""
+        },
+        "854569726960336917": {
+            "yesvotes": [
+                "528309195116642314",
+                "819577272276484107",
+                "569133728148750346",
+                "409425545944629259",
+                "365289087864668160",
+                "602691289733136404"
+            ],
+            "novotes": [],
+            "question": "Change Dark_Brick's name into \"netherrite\""
+        },
+        "854606536969420842": {
+            "yesvotes": [],
+            "novotes": [],
+            "question": "Bring back servers"
+        },
+        "854819322815316018": {
+            "yesvotes": [],
+            "novotes": [],
+            "question": "Ping Photemy"
+        },
+        "854819514800668754": {
+            "yesvotes": [
+                "602691289733136404"
+            ],
+            "novotes": [
+                "393501189788139520"
+            ],
+            "question": "add mad funny amongus"
+        },
+        "854819872885047306": {
+            "yesvotes": [
+                "570503517832478720"
+            ],
+            "novotes": [
+                "365289087864668160",
+                "528309195116642314",
+                "484682433925611542",
+                "850867485263527956",
+                "819577272276484107",
+                "602651056320675840",
+                "569133728148750346",
+                "602691289733136404"
+            ],
+            "question": "fucky wucky owo uwu owo"
+        },
+        "854824564167933963": {
+            "yesvotes": [
+                "540905402754269194",
+                "484682433925611542"
+            ],
+            "novotes": [],
+            "question": "amogsus"
+        },
+        "854830949026758697": {
+            "yesvotes": [
+                "602651056320675840",
+                "365289087864668160",
+                "602691289733136404"
+            ],
+            "novotes": [
+                "850867485263527956"
+            ],
+            "question": "Click yes"
+        }
+    },
+    "multiplechoice": {
+        "854530770777407508": {
+            "question": "change auser's name into...",
+            "poll0votes": [],
+            "poll1votes": [],
+            "poll2votes": [],
+            "poll3votes": [],
+            "poll0name": "the duck",
+            "poll1name": "Alien",
+            "poll2name": "the duck",
+            "poll3name": "the duck",
+            "numberOfChoices": 4
+        },
+        "854561575058669598": {
+            "question": "what to call auser",
+            "poll0votes": [],
+            "poll1votes": [],
+            "poll2votes": [],
+            "poll3votes": [],
+            "poll0name": "a duk",
+            "poll1name": "a duck",
+            "poll2name": "a mod",
+            "poll3name": "a moderator",
+            "numberOfChoices": 4
+        },
+        "854561637877022721": {
+            "question": "Auser is a...",
+            "poll0votes": [],
+            "poll1votes": [],
+            "poll2votes": [],
+            "poll3votes": [],
+            "poll0name": "duck",
+            "poll1name": "moderator",
+            "poll2name": null,
+            "poll3name": null,
+            "numberOfChoices": 2
+        },
+        "854563830179954688": {
+            "question": "Who to invite",
+            "poll0votes": [],
+            "poll1votes": [],
+            "poll2votes": [],
+            "poll3votes": [],
+            "poll0name": "buthed",
+            "poll1name": "stubb",
+            "poll2name": null,
+            "poll3name": null,
+            "numberOfChoices": 2
+        },
+        "854590756291084288": {
+            "question": "Which server should we bring back up",
+            "poll0votes": [],
+            "poll1votes": [
+                "602691289733136404"
+            ],
+            "poll2votes": [
+                "409425545944629259"
+            ],
+            "poll3votes": [],
+            "poll0name": "Mindustry (v6)",
+            "poll1name": "Terraria",
+            "poll2name": "Minecraft",
+            "poll3name": "All of them",
+            "numberOfChoices": 4
+        }
+    },
+    "longresponse": {
+        "poll1623810881903": {
+            "question": "What should I call Photemy?",
+            "msgid": "854549505168769054",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1623811320696": {
+            "question": "What to call Auser?",
+            "msgid": "854551345389895741",
+            "channelid": "853015691316559913",
+            "responses": {
+                "food": "A duck who denies being a duck but is one"
+            }
+        },
+        "poll1623811578356": {
+            "question": "What to call auser",
+            "msgid": "854552426569007114",
+            "channelid": "853015691316559913",
+            "responses": {
+                "undefined": "A moderator who denies being a duck but is actually one"
+            }
+        },
+        "poll1623811656787": {
+            "question": "What to call auser",
+            "msgid": "854552755086950401",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1623815501670": {
+            "question": "What should sebo be called",
+            "msgid": "854568881905729576",
+            "channelid": "853015691316559913",
+            "responses": {
+                "602691289733136404": "That guy that spam <:v_:755546914715336765>s just to jump ontop of the leaderboard",
+                "528309195116642314": "Furry-Looking Fox"
+            }
+        },
+        "poll1623820737977": {
+            "question": "Any new servers we should add?",
+            "msgid": "854590844991701043",
+            "channelid": "796838205014016021",
+            "responses": {}
+        },
+        "poll1623868622182": {
+            "question": "nexity",
+            "msgid": "854791681756758026",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1623875038956": {
+            "question": "Sebo's new name?",
+            "msgid": "854818595787374644",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1623908262435": {
+            "question": "What are the personalities of every contributor/veteran",
+            "msgid": "854957944989941791",
+            "channelid": "853015691316559913",
+            "responses": {
+                "602691289733136404": "Yo: pro who thinks everyone else are noobs, Griefer Jesus: person who creates great maps and gets downvoted them to hell, and BigSpeck: BigStorageOfMapSpecificSchemes",
+                "570503517832478720": "Eggo: super cunt who likes core forts and angrily nuts everywhere"
+            }
+        },
+        "pollid": {
+            "question": "H",
+            "msgid": "855310598224347136",
+            "channelid": "853015691316559913",
+            "responses": {
+                "602691289733136404": "<response goes here>"
+            }
+        },
+        "poll1623993001619": {
+            "question": "auser=",
+            "msgid": "855313385410265089",
+            "channelid": "854475842478145557",
+            "responses": {}
+        },
+        "poll1624049160827": {
+            "question": "Who to promote to Roll for yes t1",
+            "msgid": "855548933551816714",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624055067263": {
+            "question": "What is the best server in your opinion",
+            "msgid": "855573707158323200",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624055412243": {
+            "question": "least favorite contributor/veteran?",
+            "msgid": "855575154204606484",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624064662876": {
+            "question": "Which is the best server?",
+            "msgid": "855613954485911583",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624220364608": {
+            "question": "we should add \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\___",
+            "msgid": "856267004961226752",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624220440185": {
+            "question": "~~dontbuilddoorsinfrontofdaripples~~",
+            "msgid": "856267321885327380",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624220581943": {
+            "question": "what happens after stubb goes to this server",
+            "msgid": "856267916528713758",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624220866907": {
+            "question": "is auser a duck, why or why not",
+            "msgid": "856269111776903208",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624235849699": {
+            "question": "worst server?",
+            "msgid": "856331955149602836",
+            "channelid": "853015691316559913",
+            "responses": {}
+        },
+        "poll1624239839925": {
+            "question": "best moderator in IO?",
+            "msgid": "856348692046807050",
+            "channelid": "853015691316559913",
+            "responses": {
+                "569133728148750346": "yes."
+            }
+        },
+        "poll1624574060964": {
+            "question": "favorite server",
+            "msgid": "857750521615876108",
+            "channelid": "853015691316559913",
+            "responses": {}
+        }
+    }
+}
